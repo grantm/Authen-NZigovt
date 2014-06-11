@@ -10,6 +10,10 @@ Authen::NZigovt - Tools for integrating with the New Zealand igovt logon service
 
 =head1 DESCRIPTION
 
+B<STATUS: DEPRECATED> - this module has been renamed to L<Authen::NZRealMe> and
+all further development is taking place there.  This module will be removed
+from CPAN shortly.
+
 This module provides an API for integrating your application with the New
 Zealand igovt logon service using SAML 2.0 messaging.
 
